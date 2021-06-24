@@ -1,0 +1,32 @@
+[
+  {
+    "title": "THE FOOL",
+    "description": "THIS IS A DESCRIPTION",
+    "image": "/the-fool.png",
+    "feelings": ["feeling1", "feeling2", "feeling3"]
+  },
+  {
+    "title": "THE HIGH PRIESTESS",
+    "description": "THIS IS A DESCRIPTION",
+    "image": "/the-fool.png",
+    "feelings": ["feeling1", "feeling2", "feeling3"]
+  },
+  {
+    "title": "THE EMPRESS",
+    "description": "THIS IS A DESCRIPTION",
+    "image": "/the-fool.png",
+    "feelings": ["feeling1", "feeling2", "feeling3"]
+  },
+  {
+    "title": "THE EMPEROR",
+    "description": "THIS IS A DESCRIPTION",
+    "image": "/the-fool.png",
+    "feelings": ["feeling1", "feeling2", "feeling3"]
+  },
+  {
+    "title": "THE HIEROPHANT",
+    "description": "THIS IS A DESCRIPTION",
+    "image": "/the-fool.png",
+    "feelings": ["feeling1", "feeling2", "feeling3"]
+  }
+]
